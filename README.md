@@ -1,4 +1,3 @@
-# -PRODIGY_TrackCode_TaskNumber1
 Responsive landing page
 <!DOCTYPE html>
 <html lang="en">
